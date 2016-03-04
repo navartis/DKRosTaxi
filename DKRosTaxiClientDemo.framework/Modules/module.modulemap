@@ -1,0 +1,6 @@
+framework module DKRosTaxiClientDemo {
+  umbrella header "DKRosTaxiClientDemo.h"
+
+  export *
+  module * { export * }
+}
